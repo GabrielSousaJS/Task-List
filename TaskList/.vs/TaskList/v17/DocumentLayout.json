@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D872715D-DB9F-4E67-A800-B8CFC292FCC8}|TaskListAPI\\TaskListAPI.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D872715D-DB9F-4E67-A800-B8CFC292FCC8}|TaskListAPI\\TaskListAPI.csproj|solutionrelative:tasklistapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D872715D-DB9F-4E67-A800-B8CFC292FCC8}|TaskListAPI\\TaskListAPI.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D872715D-DB9F-4E67-A800-B8CFC292FCC8}|TaskListAPI\\TaskListAPI.csproj|solutionrelative:tasklistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapplication\\usecase\\delete\\deleteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|solutionrelative:tasklistapplication\\usecase\\delete\\deleteusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapplication\\usecase\\task\\update\\updateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|solutionrelative:tasklistapplication\\usecase\\task\\update\\updateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\requests\\requesttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\requests\\requesttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\responses\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\responses\\responseerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapplication\\usecase\\task\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|solutionrelative:tasklistapplication\\usecase\\task\\getbyid\\getbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\responses\\responsetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\responses\\responsetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\responses\\responseregistertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\responses\\responseregistertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapplication\\usecase\\task\\register\\registerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|solutionrelative:tasklistapplication\\usecase\\task\\register\\registerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistapplication\\usecase\\task\\getall\\getallusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62D104B-05BE-4353-9222-959F0B148DA7}|TaskListApplication\\TaskListApplication.csproj|solutionrelative:tasklistapplication\\usecase\\task\\getall\\getallusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\responses\\responsealltasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\responses\\responsealltasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|c:\\users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\tasklist\\tasklistcommunication\\responses\\responseshorttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525DAD7-91E9-4396-9B31-BE0CCD2EE2B0}|TaskListCommunication\\TaskListCommunication.csproj|solutionrelative:tasklistcommunication\\responses\\responseshorttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskListAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListAPI\\Program.cs",
+              "RelativeToolTip": "TaskListAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:45:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Delete\\DeleteUseCase.cs",
+              "RelativeDocumentMoniker": "TaskListApplication\\UseCase\\Delete\\DeleteUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Delete\\DeleteUseCase.cs",
+              "RelativeToolTip": "TaskListApplication\\UseCase\\Delete\\DeleteUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:44:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\Update\\UpdateUseCase.cs",
+              "RelativeDocumentMoniker": "TaskListApplication\\UseCase\\Task\\Update\\UpdateUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\Update\\UpdateUseCase.cs",
+              "RelativeToolTip": "TaskListApplication\\UseCase\\Task\\Update\\UpdateUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:40:03.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseError.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseError.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Responses\\ResponseError.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseError.cs",
+              "RelativeToolTip": "TaskListCommunication\\Responses\\ResponseError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:33:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetByIdUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\GetById\\GetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "TaskListApplication\\UseCase\\Task\\GetById\\GetByIdUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\GetById\\GetByIdUseCase.cs",
+              "RelativeToolTip": "TaskListApplication\\UseCase\\Task\\GetById\\GetByIdUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:07:01.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\Register\\RegisterUseCase.cs",
+              "RelativeDocumentMoniker": "TaskListApplication\\UseCase\\Task\\Register\\RegisterUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\Register\\RegisterUseCase.cs",
+              "RelativeToolTip": "TaskListApplication\\UseCase\\Task\\Register\\RegisterUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:05:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseTask.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseTask.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Responses\\ResponseTask.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseTask.cs",
+              "RelativeToolTip": "TaskListCommunication\\Responses\\ResponseTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:05:23.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\GetAll\\GetAllUseCase.cs",
+              "RelativeDocumentMoniker": "TaskListApplication\\UseCase\\Task\\GetAll\\GetAllUseCase.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListApplication\\UseCase\\Task\\GetAll\\GetAllUseCase.cs",
+              "RelativeToolTip": "TaskListApplication\\UseCase\\Task\\GetAll\\GetAllUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:57:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseAllTasks.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseAllTasks.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Responses\\ResponseAllTasks.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseAllTasks.cs",
+              "RelativeToolTip": "TaskListCommunication\\Responses\\ResponseAllTasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:56:06.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseRegisterTask.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseRegisterTask.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Responses\\ResponseRegisterTask.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseRegisterTask.cs",
+              "RelativeToolTip": "TaskListCommunication\\Responses\\ResponseRegisterTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:55:34.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestTask.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Requests\\RequestTask.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Requests\\RequestTask.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Requests\\RequestTask.cs",
+              "RelativeToolTip": "TaskListCommunication\\Requests\\RequestTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:55:29.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseShortTask.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseShortTask.cs",
+              "RelativeDocumentMoniker": "TaskListCommunication\\Responses\\ResponseShortTask.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListCommunication\\Responses\\ResponseShortTask.cs",
+              "RelativeToolTip": "TaskListCommunication\\Responses\\ResponseShortTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:55:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskListAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\gabri\\ws-rocketseat\\ws-csharp-desafio-03\\TaskList\\TaskListAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskListAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T01:52:15.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
